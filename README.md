@@ -58,24 +58,6 @@ The model used:
 
 The purpose of the model was not to build a perfect prediction system, but to test whether basic features could help identify higher-impact delays.
 
-## Project Structure
-
-toronto-transit-delay-analysis/
-│
-├── data/
-│ ├── ttc_delays.csv
-│ ├── weather.csv
-│ └── cleaned_data.csv
-│
-├── notebooks/
-│ └── ttc_analysis.ipynb
-│
-├── dashboard/
-│ └── dashboard.png
-│
-└── README.md
-
-
 ## Conclusion
 This project shows how transit delay data can be cleaned, explored, visualized, and used for basic predictive modeling. The strongest findings came from operational patterns such as hour of day, station, and line, rather than weather conditions. These insights can help identify where service reliability issues are concentrated and where further investigation may be useful.
 
