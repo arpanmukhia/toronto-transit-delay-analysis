@@ -47,7 +47,7 @@ The datasets were cleaned, merged by date, and prepared for analysis using Pytho
 ## Tableau Dashboard
 The Tableau dashboard summarizes delay patterns by hour, weekday/weekend, line, and station.
 
-![Tableau Dashboard](dashboard/dashboard.png)
+![Tableau Dashboard](dashboard.png)
 
 ## Machine Learning Component
 A simple classification model was created to predict whether a delay would be longer than 10 minutes.
